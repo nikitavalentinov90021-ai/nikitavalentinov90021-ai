@@ -7,7 +7,7 @@
 
 <!-- ЭФФЕКТ СТЕКЛА: Приветственный блок -->
 <div align="center" style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); border: 1px solid rgba(0, 241, 206, 0.2); border-radius: 16px; padding: 20px; box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img src="https://iimg.su/i/0Uriz0" alt="Typing SVG" />
   <p style="color: #8b949e; font-family: monospace;">Изучаем новое // Режим веб-разработки активирован</p>
 </div>
 

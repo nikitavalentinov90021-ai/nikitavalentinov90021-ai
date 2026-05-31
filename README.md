@@ -125,7 +125,7 @@
 ### 🌐 КАНАЛЫ СВЯЗИ
 
 <div align="left">
-  <a href="https://t.me" target="_blank">
+  <a href="https://t.me/QuorvoxTeam" target="_blank">
     <img src="https://shields.io" />
   </a>
   <a href="https://t.me" target="_blank">

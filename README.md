@@ -1,74 +1,79 @@
-<!-- Заголовок в стиле игрового приветствия -->
+<!-- Анимированный игровой бэкграунд-шапка -->
 <div align="center">
   <img src="https://vercel.app" width="100%" />
 </div>
 
-<div align="center">
-  <h3>⚡ LOADING PROFILE... USER DETECTED ⚡</h3>
-  <p><i>"Изучаем новое"</i></p>
+<br />
+
+<!-- ЭФФЕКТ СТЕКЛА: Приветственный блок -->
+<div align="center" style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); border: 1px solid rgba(0, 241, 206, 0.2); border-radius: 16px; padding: 20px; box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);">
+  <img src="https://demolab.com" alt="Typing SVG" />
+  <p style="color: #8b949e; font-family: monospace;">Изучаем новое // Режим веб-разработки активирован</p>
 </div>
 
 ---
 
-### 🕹️ CLASS: WEB DEVELOPER (LEVEL 1)
+### 🕹️ ТЕКУЩИЕ ХАРАКТЕРИСТИКИ
 
 ```javascript
-const developer = {
-    name: "Quorvox",
-    role: "Full-Stack Web Developer",
-    status: "Learning & Upgrading skills",
-    interests: ["Web Design", "Cyberpunk Tech", "Game UI"]
-};
+{
+  "player": "nikitavalentinov90021-ai",
+  "environment": "Dark Theme / Sci-Fi / Cyberpunk",
+  "specialization": "Web & Game Interface Engineering",
+  "status": "Upgrading System Specs..."
+}
 ```
 
 ---
 
-### 🎒 SKILLS & INVENTORY (Стек технологий)
+### 🎒 ИНВЕНТАРЬ И ОРУЖИЕ (Стек технологий)
 
-<div align="left">
-  <!-- HTML5 -->
+<div align="left" style="background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.05); border-radius: 12px; padding: 15px;">
   <img src="https://shields.io" />
-  <!-- CSS3 -->
   <img src="https://shields.io" />
-  <!-- JavaScript -->
   <img src="https://shields.io" />
-  <!-- VS Code -->
   <img src="https://shields.io" />
-  <!-- Git -->
   <img src="https://shields.io" />
 </div>
 
 ---
 
-### 📊 PLAYER STATS (Статистика в темном стиле)
+### 🎲 3D-ВИЗУАЛИЗАЦИЯ АКТИВНОСТИ
+
+<!-- Блок для отображения трехмерного города вашей активности -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+    <img alt="GitHub Сетка-Змейка" src="https://githubusercontent.com">
+  </picture>
+</div>
+
+---
+
+### 📊 СТАТИСТИКА ИГРОКА (Neon Tokyo Style)
 
 <div align="center">
-  <!-- Карточка общей статистики -->
-  <img src="https://vercel.app" alt="Quorvox Stats" height="180px" />
-  
-  <!-- Карточка используемых языков -->
-  <img src="https://vercel.app" alt="Top Langs" height="180px" />
+  <img src="https://vercel.app" height="180px" />
+  <img src="https://vercel.app" height="180px" />
 </div>
-
-<p align="center">
-  <!-- Змейка активности (будет анимироваться со временем) -->
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
 
 ---
 
-### 🌐 CONTACT CHANNELS (Связь)
+### 🌐 КАНАЛЫ СВЯЗИ
 
 <div align="left">
+  <!-- Ссылки автоматически подтянуты из вашего профиля -->
   <a href="https://t.me" target="_blank">
     <img src="https://shields.io" />
   </a>
-  <a href="https://discord.com" target="_blank">
+  <a href="https://t.me" target="_blank">
     <img src="https://shields.io" />
   </a>
 </div>
 
 <br />
+
 <div align="center">
   <img src="https://komarev.com" alt="Views" />
 </div>
